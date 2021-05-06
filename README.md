@@ -32,12 +32,13 @@ The sentiment labels are:
 - Glove pre-trained
 
 ## Model
+The listed model has been implemented for this projects.
 - ML Model
-  - Random Forest
-  - Naive bayes
+  - **Random Forest**
+  - **Naive bayes**
 - Deep Learning Models
-  - CNN classifier
-  - LSTM
+  - **CNN classifier**
+  - **LSTM**
 
 
 ## How to Run The Code
