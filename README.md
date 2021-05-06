@@ -1,4 +1,4 @@
-# Stock Sentiment Analysis using News Headlines
+# Movies Reviews Sentiment Analysis 
 Movie reviews help users decide if the movie is worth their time. A summary of all reviews for a movie can help users make this decision by not wasting their time reading all reviews. Movie-rating websites are often used by critics to post comments and rate movies which help viewers decide if the movie is worth watching. Sentiment analysis can determine the attitude of critics depending on their reviews. Sentiment analysis of a movie review can rate how positive or negative a movie review is and hence the overall rating for a movie. Therefore, the process of understanding if a review is positive or negative can be automated as the machine learns through training and testing the data.
 
 ![](images/SENTIMENT.jpg)
@@ -24,18 +24,20 @@ The sentiment labels are:
 - Data Exploratory analysis
 - class inbalnce  
 - Build and train the Model
-  - ML Model
-    - Random Forest
-    - Naive bayes
-  -Deep Learning Models
-   - CNN classifier
-   - LSTM
 - Evaluate our model on the test set
 
 ## Embedding 
 - Bage of Words
 - TFIDF
 - Glove pre-trained
+
+## Model
+- ML Model
+  - Random Forest
+  - Naive bayes
+- Deep Learning Models
+  - CNN classifier
+  - LSTM
 
 
 ## How to Run The Code
